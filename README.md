@@ -49,11 +49,11 @@ ADY304m_Project_HCMC_Apartment/
 
 ```
 🚀 Hướng dẫn Cài đặt & Sử dụng (How to Run)
+
 Bước 1: Clone kho lưu trữ
 
-Bash
-git clone [https://github.com/your-username/ADY304m_Project_HCMC_Apartment.git](https://github.com/your-username/ADY304m_Project_HCMC_Apartment.git)
-cd ADY304m_Project_HCMC_Apartment
+Bash git clone [https://github.com/your-username/ADY304m_Project_HCMC_Apartment.git](https://github.com/carwynetic/ADY304m_Project_HCMC_Apartment.git) cd ADY304m_Project_HCMC_Apartment
+
 Bước 2: Cài đặt thư viện
 
 Bash
