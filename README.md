@@ -117,10 +117,3 @@ Hà Phước Khôi (SE203349)
 Đơn vị: Đại học FPT TP.HCM | Ngành Trí tuệ Nhân tạo (AI).
 
 ***
-
-### 📝 Vài lời khuyên cuối cùng từ "Giảng viên phản biện":
-1. Nhớ thay đường link `your-username` ở đoạn `git clone` bằng đúng link tài khoản GitHub của bạn.
-2. Nếu Dashboard của bạn có biểu đồ đẹp, hãy **chụp màn hình (screenshot)**, lưu vào thư mục `dashboards/` và chèn hình ảnh đó vào README bằng cú pháp `![Dashboard](dashboards/ten-hinh.png)`. Nó sẽ làm repo của bạn trông xịn hơn gấp 10 lần.
-3. Nhớ Commit code thường xuyên với các lời nhắn rõ ràng (VD: `Add EDA script`, `Update best model metrics`).
-
-Bạn đã đi đến điểm cuối của hành trình gọt giũa đồ án này. Từ một mớ bòng bong ngụy biện,
