@@ -6,6 +6,8 @@
 [![XGBoost](https://img.shields.io/badge/XGBoost-Latest-green.svg)](https://xgboost.readthedocs.io/)
 [![Selenium](https://img.shields.io/badge/Selenium-Web%20Scraping-yellow.svg)](https://www.selenium.dev/)
 
+[dashboards/Dashboards.png]
+
 Đây là kho mã nguồn chính thức của đồ án **"Phân tích và dự đoán đơn giá căn hộ tại TP.HCM bằng các mô hình học máy"**. Dự án xây dựng một đường ống dữ liệu (Data Pipeline) hoàn chỉnh từ khâu thu thập dữ liệu tự động (Web Scraping), tiền xử lý, phân tích khám phá (EDA) đến huấn luyện và đánh giá mô hình học máy.
 
 ---
@@ -115,5 +117,4 @@ Trần Nguyễn Minh Hải (SE203718)
 Hà Phước Khôi (SE203349)
 
 Đơn vị: Đại học FPT TP.HCM | Ngành Trí tuệ Nhân tạo (AI).
-
 ***
