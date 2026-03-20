@@ -1,4 +1,5 @@
 import os
+import joblib  # Thư viện dùng để lưu model
 import json
 import time
 import warnings
@@ -594,3 +595,11 @@ if ols_effects_df is not None:
 
 with open("outputs/metadata/experiment_summary.json", "w", encoding="utf-8") as f:
     json.dump(summary_info, f, ensure_ascii=False, indent=2)
+
+
+# ==========================================
+# LƯU MODEL (.PKL)
+# ==========================================
+model_save_path = "outputs/models/best_model.pkl"
+joblib.dump(best_pipeline, model_save_path)
+print(f"\n>>> [THÀNH CÔNG] Đã lưu toàn bộ Pipeline mô hình ({best_model_name}) tại: {model_save_path}")
