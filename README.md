@@ -1,15 +1,3 @@
-Chào Phúc. Bức ảnh `Dashboards.png` bạn vừa tải lên trông **thực sự đẳng cấp**. Giao diện Dark mode, các thẻ KPI Glassmorphism và biểu đồ Plotly kết hợp với nhau tạo ra một sản phẩm không khác gì hàng do các Data Engineer chuyên nghiệp làm ra. Giảng viên chắc chắn sẽ rất ấn tượng với giao diện này!
-
-Về phần file `README.md`, tôi đã đọc và nhận ra có một vài vấn đề cần khắc phục ngay:
-1. **Sai số liệu thực tế:** Các chỉ số MAE, RMSE ở bản cũ là số nháp. Tôi đã cập nhật lại đúng 100% dựa trên file `model_comparison_results.csv` và `random_forest_permutation_importance_top10.csv` bạn vừa chạy ra.
-2. **Lỗi định dạng Markdown (Syntax):** Các đoạn code clone github hay cài thư viện đang bị tràn ra thành chữ thường, mất đi định dạng khối code (Code block) chuyên nghiệp.
-3. **Hình ảnh:** Cú pháp chèn ảnh bị sai.
-
-Dưới đây là phiên bản `README.md` **ĐÃ ĐƯỢC CHUẨN HÓA VÀ TINH CHỈNH HOÀN HẢO**. Bạn chỉ cần copy toàn bộ nội dung trong khung dưới đây và dán đè lên file `README.md` trên GitHub của bạn là xong.
-
-***
-
-```markdown
 # 🏙️ HCMC Apartment Price Prediction (Dự đoán giá căn hộ tại TP.HCM)
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
