@@ -1,1 +1,34 @@
-
+{
+  "n_rows": 16520,
+  "n_original_columns": 9,
+  "n_final_features_after_encoding": 25,
+  "final_features": [
+    "Log_Area_m2",
+    "Furniture_Encoded",
+    "District_Bình Chánh",
+    "District_Bình Thạnh",
+    "District_Bình Tân",
+    "District_Cần Giờ",
+    "District_Gò Vấp",
+    "District_Hóc Môn",
+    "District_Nhà Bè",
+    "District_Phú Nhuận",
+    "District_Quận 1",
+    "District_Quận 10",
+    "District_Quận 11",
+    "District_Quận 12",
+    "District_Quận 2",
+    "District_Quận 3",
+    "District_Quận 4",
+    "District_Quận 5",
+    "District_Quận 6",
+    "District_Quận 7",
+    "District_Quận 8",
+    "District_Quận 9",
+    "District_Tp Thủ Đức",
+    "District_Tân Bình",
+    "District_Tân Phú"
+  ],
+  "reference_district_dropped_by_OHE": "Bình Chánh",
+  "best_model": "Random Forest Regression"
+}
