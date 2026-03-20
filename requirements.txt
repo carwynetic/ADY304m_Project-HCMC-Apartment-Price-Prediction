@@ -1,11 +1,21 @@
+# --- Data Manipulation & EDA ---
 pandas
 numpy
 matplotlib
 seaborn
+
+# --- Machine Learning ---
 scikit-learn
 statsmodels
 xgboost
 lightgbm
-tabulate
+joblib
+
+# --- Web Scraping ---
 selenium
 undetected-chromedriver
+
+# --- Dashboard & Visualization ---
+streamlit
+plotly
+tabulate
