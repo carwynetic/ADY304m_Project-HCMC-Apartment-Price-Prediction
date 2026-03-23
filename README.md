@@ -5,7 +5,9 @@
 [![XGBoost](https://img.shields.io/badge/XGBoost-Latest-green.svg)](https://xgboost.readthedocs.io/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-App-red.svg)](https://streamlit.io/)
 
+Tham khảo Dashboard bằng cách bấm vào ảnh dưới!
 [![Dashboard Overview](dashboards/dashboards.png)](https://ady201mproject-hcmc-apartment-price-prediction-uzjibzvxyslc7xo.streamlit.app/)
+
 
 Đây là kho mã nguồn chính thức của đồ án **"Phân tích và dự đoán đơn giá căn hộ tại TP.HCM bằng các mô hình học máy"**. Dự án xây dựng một đường ống dữ liệu (Data Pipeline) hoàn chỉnh từ khâu thu thập dữ liệu tự động (Web Scraping), tiền xử lý, phân tích khám phá (EDA), cho đến huấn luyện mô hình học máy và triển khai ứng dụng trực quan (Interactive Dashboard).
 
