@@ -206,7 +206,7 @@ def render_svg_logo(svg_path, width=200):
 render_svg_logo("Logo_Trường_Đại_học_FPT.svg", width=180)
 
 # 3. Sidebar content
-st.sidebar.markdown("<h1>ADY304m | Group 6</h1>", unsafe_allow_html=True)
+st.sidebar.markdown("<h1>ADY201m | Group 6</h1>", unsafe_allow_html=True)
 st.sidebar.markdown("---")
 
 all_districts = sorted(df_raw['District'].dropna().unique())
@@ -262,7 +262,7 @@ ICONS = {
 st.markdown('<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">', unsafe_allow_html=True)
 
 st.markdown('<p class="fpt-title">HCMC Apartment | Trí Tuệ Nhân Tạo</p>', unsafe_allow_html=True)
-st.markdown('<p class="fpt-subtitle">Phân tích và dự đoán đơn giá căn hộ tại TP.HCM | Project ADY304m | FPT University</p>', unsafe_allow_html=True)
+st.markdown('<p class="fpt-subtitle">Phân tích và dự đoán đơn giá căn hộ tại TP.HCM | Project ADY201m | FPT University</p>', unsafe_allow_html=True)
 
 tab1, tab2, tab3 = st.tabs(["📊 Tổng quan Thị trường", "🔍 EDA", "⚖️ Predictor"])
 
@@ -417,7 +417,7 @@ with tab2:
 # -------------------------------------------------------------------------
 with tab3:
     st.markdown("<br>", unsafe_allow_html=True)
-    st.markdown(f'<p style="color:{DARK_TEXT}; font-size:1.5rem; weight:700;">🤖 CÔNG CỤ ĐỊNH GIÁ  [BẢN GỐC ADY304m]</p>', unsafe_allow_html=True)
+    st.markdown(f'<p style="color:{DARK_TEXT}; font-size:1.5rem; weight:700;">🤖 CÔNG CỤ ĐỊNH GIÁ  [BẢN GỐC ADY201m]</p>', unsafe_allow_html=True)
     st.markdown("---")
     
     col_in, col_out = st.columns([4, 6], gap="large")
